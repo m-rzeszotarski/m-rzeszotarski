@@ -9,7 +9,7 @@ Hey there! 👋 I'm Michał, a biotechnologist with a knack for analytical think
 🔍 **Exploring the Database Realm:** My next conquest is to conquer the vast lands of databases, with SQL as my trusty sword. I'm ready to tame the data dragons and unlock the secrets they hold.
 
 ## The Biotechnologist Turned Coder:
-🧪 **From Petri Dishes to Pixels:** As a biotechnologist, I've always enjoyed the thrill of problem-solving in the lab. Now, I've decided to trade in my lab coat for a coding cape. Programming has become my new laboratory, and bugs are the mysterious organisms I'm determined to understand.
+🧪 **From Bioreactors to Pixels:** As a biotechnologist, I've always enjoyed the thrill of problem-solving in the lab. Now, I've decided to trade in my lab coat for a coding cape. Programming has become my new laboratory, and bugs are the mysterious organisms I'm determined to understand.
 
 ## Why Programming? Because...
 🤖 **Finding Solutions in Code:** There's something oddly satisfying about troubleshooting errors and making things work. It's like solving puzzles, but the pieces are lines of code, and the picture is a functional program. Who knew debugging could be so entertaining?
