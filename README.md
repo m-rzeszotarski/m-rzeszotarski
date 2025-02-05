@@ -3,10 +3,7 @@
 Hey there! 👋 I'm Michał, a biotechnologist with a knack for analytical thinking and a newfound love for Python programming. This README is a glimpse into my exciting adventure as I dive into the world of code.
 
 ## Current Status:
-🐍 **Learning Python:** Currently, I'm in the process of mastering Python. From the basics to the more intricate aspects. I'm currently writting a beer rating app, the mystical link to which can be unearthed in the treasure trove of my profile.
-
-## Aspirations:
-🔍 **Exploring the Database Realm:** My next conquest is to conquer the vast lands of databases, with SQL as my trusty sword. I'm ready to tame the data dragons and unlock the secrets they hold.
+🐍 **Learning Python:** I'm in the process of mastering Python while also expanding my knowledge of DevOps tools such as Jenkins and Kubernetes, exploring their applications in automation and infrastructure management.
 
 ## The Biotechnologist Turned Coder:
 🧪 **From Bioreactors to Pixels:** As a biotechnologist, I've always enjoyed the thrill of problem-solving in the lab. Now, I've decided to trade in my lab coat for a coding cape. Programming has become my new laboratory, and bugs are the mysterious organisms I'm determined to understand.
